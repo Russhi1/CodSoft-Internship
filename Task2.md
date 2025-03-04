@@ -1,6 +1,8 @@
 # Student Grade System
 
 
+The code asks the user for the marks of a Student and calculates the total, average and percentage and accordingly gives the grades
+
 
 ## Marks class to be inherited
 
